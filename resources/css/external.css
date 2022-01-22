@@ -1,4 +1,4 @@
-@import "app.css";
+
 html {
     line-height: 1.15;
     -webkit-text-size-adjust: 100%
@@ -34,7 +34,7 @@ a {
 
 svg, video {
     display: block;
-    vertical-align: middle
+    vertical-align: middle;
 }
 
 video {
@@ -182,7 +182,9 @@ video {
 .pt-8 {
     padding-top: 2rem
 }
-
+.pl-nineteen {
+    padding-left: 19px;
+}
 .fixed {
     position: fixed
 }
